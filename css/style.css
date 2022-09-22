@@ -4,6 +4,8 @@
     margin: 0;
 }
 
+/* Benefits can combine  // fixed link to search engine optimization */
+
 body {
     background-color: #d9dcd6;
 }
@@ -82,7 +84,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* These 3 sections can be combined with Benefits (above). All 3 have the same margin and text color */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
